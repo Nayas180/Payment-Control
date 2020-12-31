@@ -1,0 +1,7 @@
+{
+  "name": "Payme_control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
